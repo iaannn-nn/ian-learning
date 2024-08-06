@@ -10,3 +10,12 @@
 -  current directory's path: pwd
 - list file: ls / ls-all( hiddlen folder too)
 - view file content in linux: cat <<file_name>>
+
+# Git Commands:
+- git add . ( to add all)
+- git commit -m <<message>>
+- 
+
+# Git Pod:
+- Update Your Permissions on Gitpod: Before you can push code to your new GitHub repo, you’ll need to update the your permissions on Gitpod.
+https://forum.freecodecamp.org/t/how-to-use-gitpod-in-the-curriculum/668669
