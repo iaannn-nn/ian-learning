@@ -19,3 +19,4 @@
 # Git Pod:
 - Update Your Permissions on Gitpod: Before you can push code to your new GitHub repo, you’ll need to update the your permissions on Gitpod.
 https://forum.freecodecamp.org/t/how-to-use-gitpod-in-the-curriculum/668669
+- 
