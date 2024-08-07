@@ -10,5 +10,14 @@ ports:
     description: Port 3000 for the frontend
     port: 3000
     onOpen: open-preview
+  - name: JupyterNotebook
+    description: Port 8888 to view jupyter notebook
+    port: 8888
+    onOpen: open-preview  
 
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
+
+vscode: # add jupyter notebook extension to vscode. 
+    extensions:
+        - ms-toolsai.jupyter
+        - ms-python.python
