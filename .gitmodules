@@ -1,0 +1,3 @@
+[submodule "master-math-by-coding/learning-material"]
+	path = master-math-by-coding/learning-material
+	url = https://github.com/mikexcohen/MasterMathByCodingInPython.git
